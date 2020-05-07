@@ -1,5 +1,6 @@
 READ ME!
-THESE ARE THE FILES THAT YOU NEED TO COPY TO /EFI/CLOVER
+
+THE FILES THAT YOU NEED TO COPY TO /EFI/CLOVER ARE IN THE ZIP FILE!
 
 Things that I could make working with that:
 - iMessage and FaceTime
