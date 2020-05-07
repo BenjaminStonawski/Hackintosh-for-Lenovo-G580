@@ -1,4 +1,4 @@
-#HD Graphics 3000 Drivers for Sierra & High Sierra
+# HD Graphics 3000 Drivers for Sierra & High Sierra
 
 
 Hello there!
