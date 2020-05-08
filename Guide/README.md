@@ -27,9 +27,9 @@ This is a guide for Lenovo G580 if you want to install Hackintosh into it.
 
 
 7.	Download GenSMBIOS: https://github.com/corpnewt/GenSMBIOS. After you downloaded it, open Terminal, and write these commands:
-1.	cd /xy/GenSMBIOS/
-2.	chmod +x GenSMBIOS.command
-3.	./GenSMBIOS.command
+          cd /xy/GenSMBIOS/
+          chmod +x GenSMBIOS.command
+          ./GenSMBIOS.command
           (xy = the path where you downloaded GenSMBIOS. It’s    maybe ~/Downloads/.
 
 8.	After that, if you are on Sierra or High Sierra, then congrats, you are done! But if you have Mojave, download this driver: https://github.com/BenjaminStonawski/Hackintosh-for-Lenovo-G580/tree/master/HD%20Graphics%203000%20-%20Mojave
