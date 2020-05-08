@@ -20,6 +20,11 @@ HD Graphics 3000 works on Sierra, High Sierra, Mojave and Catalina, Nvidia 710M 
 
 Boot Chime (with Calliron): Works on Sierra, High Sierra, Mojave and with some trickery, it works on Catalina as well
 
+# Screenshots from "About this Mac" window
+![Modular Image Creation](https://cdn.discordapp.com/attachments/697226271222005803/708284834589573181/catalina.png)
+![Modular Image Creation](https://cdn.discordapp.com/attachments/697226271222005803/708284853006893107/mojave.png)
+![Modular Image Creation](https://cdn.discordapp.com/attachments/697226271222005803/708285096544698495/highsierra2.png)
+
 
 
 Benjamin Stonawski
