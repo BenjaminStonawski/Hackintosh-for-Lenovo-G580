@@ -20,6 +20,10 @@ HD Graphics 3000 works on Sierra, High Sierra, Mojave and Catalina, Nvidia 710M 
 
 Boot Chime (with Calliron): Works on Sierra, High Sierra, Mojave and with some trickery, it works on Catalina as well
 
+# Guide
+
+You can find a complete guide about how to install macOS to Lenovo G580: https://github.com/BenjaminStonawski/Hackintosh-for-Lenovo-G580/tree/master/Guide
+
 # Screenshots from "About this Mac" window
 Catalina:
 
