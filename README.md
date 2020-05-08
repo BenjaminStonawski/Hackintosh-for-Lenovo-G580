@@ -16,7 +16,7 @@ Sleep: works on Sierra, High Sierra, doesn't work on Mojave and Catalina
 
 iMessage, FaceTime and iCloud: if you use GenSMBIOS it works on Sierra, High Sierra, Mojave and Catalina
 
-HD Graphics 3000 works on Sierra, High Sierra, Mojave and Catalina, Nvidia 710M works on High Sierra and Sierra.
+HD Graphics 3000 works on Sierra, High Sierra, Mojave and Catalina, Nvidia 710M won't work with any macOS.
 
 Boot Chime (with Calliron): Works on Sierra, High Sierra, Mojave and with some trickery, it works on Catalina as well
 
