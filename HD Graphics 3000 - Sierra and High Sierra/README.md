@@ -3,7 +3,6 @@
 
 Hello there!
 
-
 Looks like you need a driver for your HD3000 for Sierra and High Sierra.
 
 
