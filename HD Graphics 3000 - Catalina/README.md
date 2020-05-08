@@ -2,4 +2,6 @@
 
 The link to this driver is: https://github.com/chris1111/Legacy-Video-patch
 
+Credit to: chris111.
+
 Benjamin Stonawski
