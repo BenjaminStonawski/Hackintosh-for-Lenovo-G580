@@ -8,10 +8,12 @@ Things that I could make working with that:
 - HD Graphics 3000 with: Sierra, High Sierra, Mojave, Catalina
 - iCloud and iCloud Drive
 - AirDrop if you have a compatible WiFi card
+- Siri
 
 
 Things that I couldn’t make working with that:
-- Siri
+- Sleep
+- Siri on Mojave
 
 
 This Clover works with: Sierra, High Sierra, Mojave, Catalina
