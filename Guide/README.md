@@ -19,7 +19,7 @@ This is a guide for Lenovo G580 if you want to install Hackintosh into it.
 
 4.	Now, boot the USB Disk. You need to press the Novo button -> Boot Menu -> select “EFI USB - xy”.
 
-5.	Now select: “Boot macOS Installer from Install macOS xy” (xy = the version of your macOS). In the installer format your Hard Drive, name it to: “Macintosh HD” (EVERYTHING WILL BE DELETED FROM IT!!!) and then, you can now install Hackintosh. After 30 minutes your computer should restart, and now don’t boot the “Boot macOS Installer from Install macOS XY” you should boot to “Boot macOS Installer from Macintosh HD” now. If the installer restarts, you should boot to Macintosh HD again.
+5.	Now select: “Boot macOS Installer from Install macOS xy” (xy = the version of your macOS). In the installer format your Hard Drive, name it to: “Macintosh HD” (EVERYTHING WILL BE DELETED FROM THE ENTIRE HARD DRIVE!!!) and then, you can now install Hackintosh. After 30 minutes your computer should restart, and now don’t boot the “Boot macOS Installer from Install macOS XY” you should boot to “Boot macOS Installer from Macintosh HD” now. If the installer restarts, you should boot to Macintosh HD again.
 
 # Fixing and Installing drivers
 
@@ -34,7 +34,7 @@ This is a guide for Lenovo G580 if you want to install Hackintosh into it.
           
           ./GenSMBIOS.command
           
-          (xy = the path where you downloaded GenSMBIOS. It’s    maybe ~/Downloads/.
+xy = the path where you downloaded GenSMBIOS. It’s    maybe ~/Downloads/.
 
 8.	After that, if you are on Sierra or High Sierra, then congrats, you are done! But if you have Mojave, download this driver: https://github.com/BenjaminStonawski/Hackintosh-for-Lenovo-G580/tree/master/HD%20Graphics%203000%20-%20Mojave
           And if you are on Catalina, download this driver:       https://github.com/BenjaminStonawski/Hackintosh-for-Lenovo-G580/tree/master/HD%20Graphics%203000%20-%20Catalina
