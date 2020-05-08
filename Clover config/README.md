@@ -19,7 +19,7 @@ This Clover works with: Sierra, High Sierra, Mojave, Catalina
 
 Serial Number and iMessage: I’m using a valid-ish serial number which is not used by any Mac computer, 
 [valid without a purchase date] In the config.plist file, there is just a generated serial number, 
-I no idea if it will have working iMessage instantly. I recommend GenSMBIOS to get a working 
+I have no idea if it will have working iMessage instantly. I recommend GenSMBIOS to get a working 
 iMessage serial number for your Hack. Have fun! ˆ.ˆ
 
 
