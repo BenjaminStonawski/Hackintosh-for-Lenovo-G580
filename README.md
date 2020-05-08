@@ -1,4 +1,4 @@
-# Hackintosh for Lenovo G580
+# IdeaHack G580 - Hackintosh for Lenovo G580
 
 READ ME!
 Hello there!
