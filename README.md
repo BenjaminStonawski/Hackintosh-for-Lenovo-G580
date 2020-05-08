@@ -7,6 +7,6 @@ These are really important files for the laptop Lenovo G580 if you want to insta
 You can find drivers and a Clover setup which works on that laptop.
 Have fun!
 
-https://cdn.discordapp.com/attachments/597823434537304103/708105979149156433/lenovo_hack.png
+![Modular Image Creation](https://cdn.discordapp.com/attachments/597823434537304103/708105979149156433/lenovo_hack.png)
 
 Benjamin Stonawski
