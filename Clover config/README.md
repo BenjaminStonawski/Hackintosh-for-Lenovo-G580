@@ -2,6 +2,7 @@
 
 THE FILES THAT YOU NEED TO COPY TO /EFI/CLOVER ARE IN THE ZIP FILE!
 
+# What works and what doesn't
 
 Things that I could make working with that:
 - iMessage and FaceTime
@@ -18,6 +19,7 @@ Things that I couldn’t make working with that:
 
 This Clover works with: Sierra, High Sierra, Mojave, Catalina
 
+# About iMessage, FaceTime and iCloud
 
 Serial Number and iMessage: I’m using a valid-ish serial number which is not used by any Mac computer, 
 [valid without a purchase date] In the config.plist file, there is just a generated serial number, 
