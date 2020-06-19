@@ -10,11 +10,12 @@ Things that I could make working with that:
 - iCloud and iCloud Drive
 - AirDrop if you have a compatible WiFi card
 - Siri
-
+- HDMI and VGA connection in Sierra, High Sierra and Mojave
 
 Things that I couldn’t make working with that:
 - Sleep
 - Siri on Mojave
+- HDMI and VGA connection in Catalina
 
 
 This Clover works with: Sierra, High Sierra, Mojave, Catalina
